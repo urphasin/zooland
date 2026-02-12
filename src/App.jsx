@@ -6,9 +6,9 @@ const App = () => {
     return (
 
         <Fragment>
-            <h1>Bring your pets, we want them. We want to shelter all the animals. </h1>
+            <h1>Animal Shelter. </h1>
             <a href="#">No Navs.</a>
-            <a href="#">Earth were all the animals are free and live in harmony.</a>
+            <a href="#">Animal Shelter.</a>
         </Fragment>
 
     )
