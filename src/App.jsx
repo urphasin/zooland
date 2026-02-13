@@ -7,7 +7,8 @@ const App = () => {
 
         <Fragment>
             <h1>Animal Shelter. </h1>
-            <a href="#">No Navs.</a>
+            <a href="https://www.google.com">No Navs.</a>
+            <br/>
             <a href="#">Animal Shelter.</a>
         </Fragment>
 
